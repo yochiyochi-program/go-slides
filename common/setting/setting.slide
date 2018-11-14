@@ -2,12 +2,25 @@
 学習環境
 
 * 概要
-- ネットワークへの接続
 - Slack
 - ドットインストール
 - ブログ
 
-* ネットワークへの接続
 * Slack
+- ユーザー登録（招待メールから登録をお願いします。）
+- アプリインストール
+.link https://slack.com/intl/ja-jp/downloads/osx mac
+.link https://slack.com/intl/ja-jp/downloads/windows windows
+- 使い方ドキュメント
+.link https://get.slack.help/hc/ja/categories/200111606 公式
+.link https://tech-camp.in/note/technology/14901/ まとめ
+
 * プロゲート
+.link https://prog-8.com/ https://prog-8.com
+
 * ブログ
+勉強する際に情報量が多いので随時ブログにメモを取ることをおすすめします。
+過去のメモを検索できて便利です。
+
+- [[https://ja.wordpress.com/][wordpress]]
+- 
