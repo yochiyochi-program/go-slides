@@ -8,7 +8,7 @@ hello :smile:
 >hello
 
 // 引用（複数行）
->>> hello
+>>>hello
 world
 
 // コードの投稿
