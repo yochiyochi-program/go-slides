@@ -11,11 +11,41 @@
 - アプリインストール
 .link https://slack.com/intl/ja-jp/downloads/osx mac
 .link https://slack.com/intl/ja-jp/downloads/windows windows
-- 使い方ドキュメント
+- 使い方の確認
 .link https://get.slack.help/hc/ja/categories/200111606 公式
 .link https://tech-camp.in/note/technology/14901/ まとめ
 
+* Slackを少し使ってみる #1
+
+*Slackチャンネルの確認*
+各言語ごとにチャンネルが用意されているので質問内容に応じて使い分けてください。
+チャンネルを増やすことも可能なので増やしたい場合はお声がけください。
+
+- html-css
+- javasript
+- ruby
+- sql
+- git
+- command-line
+- プロゲート進捗
+- 雑談
+
+* Slackを少し使ってみる #2
+
+*メッセージの投稿*
+
+.code slack-command.txt
+
+* Slackを少し使ってみる #3
+
+*メッセージへのリアクション*
+
+リアクションしたいメッセージの上にマウスのポインタを持っていくとリアクションの文字が表示されるのでクリック。
+.image slack-reaction.png _ 1000
+
+
 * プロゲート
+以下のURLから会員登録をお願いします。
 .link https://prog-8.com/ https://prog-8.com
 
 * ブログ
@@ -23,4 +53,3 @@
 過去のメモを検索できて便利です。
 
 - [[https://ja.wordpress.com/][wordpress]]
-- 
