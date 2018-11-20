@@ -7,13 +7,18 @@
 - ブログ
 
 * Slack
-- ユーザー登録（招待メールから登録をお願いします。）
-- アプリインストール
-.link https://slack.com/intl/ja-jp/downloads/osx mac
-.link https://slack.com/intl/ja-jp/downloads/windows windows
-- 使い方の確認
-.link https://get.slack.help/hc/ja/categories/200111606 公式
-.link https://tech-camp.in/note/technology/14901/ まとめ
+*ユーザー登録*
+招待メールから登録をお願いします。
+
+*アプリインストール*
+
+- mac [[https://slack.com/intl/ja-jp/downloads/osx][(https://slack.com/intl/ja-jp/downloads/osx)]]
+- windows [[https://slack.com/intl/ja-jp/downloads/windows][(https://slack.com/intl/ja-jp/downloads/windows)]]
+
+*使い方の確認*
+
+- 公式 [[https://get.slack.help/hc/ja/categories/200111606][(https://get.slack.help/hc/ja/categories/200111606)]]
+- まとめ [[https://tech-camp.in/note/technology/14901/][(https://tech-camp.in/note/technology/14901/)]]
 
 * Slackを少し使ってみる #1
 
@@ -52,4 +57,5 @@
 勉強する際に情報量が多いので随時ブログにメモを取ることをおすすめします。
 過去のメモを検索できて便利です。
 
-- [[https://ja.wordpress.com/][wordpress]]
+wordpress.com
+[[https://ja.wordpress.com/][https://ja.wordpress.com/]]
