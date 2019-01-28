@@ -9,3 +9,6 @@ https://go-talks.appspot.com/github.com/yochiyochi-program/go-slides/common/sett
 
 * もくもく#2
 https://go-talks.appspot.com/github.com/yochiyochi-program/go-slides/2018-2/2/schedule.slide#1
+
+* ハンズオン#1
+* https://go-talks.appspot.com/github.com/yochiyochi-program/go-slides/2018-2/3/handson.slide#1
