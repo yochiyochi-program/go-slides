@@ -1,0 +1,150 @@
+よちよちプログラミング部
+チュートリアル #1
+
+* アジェンダ
+- ハンズオン
+プロゲートで学んだHTML&CSS, JavaScriptを使って簡単なアプリケーションを作ります
+
+- 懇親会からの流れ解散
+
+* プロゲート（初級編）で学んだことの確認
+
+* HTML
+
+*タグ*
+
+- h1, h2
+- p
+- a
+- img
+- ul, li
+- span
+- input, textarea
+
+*HTML全体構造*
+
+[[https://prog-8.com/html/study/1/10#/30][プロゲート]]
+
+* CSS
+
+- color
+- font-size
+- font-family
+- background-color
+- width, height
+- float
+- padding
+- border
+- タグへの命名（selectedなど）
+
+* JavaScript
+
+- console.log
+- コメント
+- 計算
+- 変数（let）
+- 定数（const）
+- 文字列の連結
+- テンプレートリテラル （${変数 or 定数}）
+- if文
+- switch文
+
+* 開発の環境整備
+
+*開発エディタのインストール*
+自身のPCでソースコードを書くにはまず、エディタをインストールしましょう。
+
+[[https://yochiyochi-program.github.io/blog/posts/vscode/][インスール方法]]
+
+*Webブラウザのインストール*
+chromeをインストール
+
+[[https://www.google.com/chrome/][ダウンロード]]
+
+* 作業用フォルダの作成
+
+- 任意の名前のフォルダを作成
+- vscodeでフォルダを開く
+
+* Github
+
+- 本資料ではソースコードを[[https://github.com/][Github]]にアップロードしてます。
+- Githubとはソースコードを管理するサービスです。
+（最近マイクロソフトに買収され話題になりました。）
+
+.image github.png 320 _
+
+* HTML, CSS, JavaScriptファイルを作成してみよう
+
+* HTML
+
+*ファイル作成*
+
+- index.html ファイルを作成
+- 基本構造を記載
+
+[[https://github.com/yochiyochi-program/static-page/commit/4d1212ea38853fb427a18ecdc217b91645fdb4f1][ソースコード]]
+
+*タイトルと本文を設定*
+
+- タイトル設定 （[[https://github.com/yochiyochi-program/static-page/commit/2e583c6792014655fd085876bc7205aeed945e8e][ソースコード]]）
+
+- 本文設定 （[[https://github.com/yochiyochi-program/static-page/commit/e6d4b0aa9baa1c652e06ba97c3a10f709962a08f][ソースコード]]）
+
+*ページの確認*
+
+index.html をWebブラウザで開いてみる
+
+* CSS
+
+*ファイル作成*
+
+- cssファイルの作成（stylesheet.css）
+- 作成したcssファイルへのリンクを設定
+[[https://github.com/yochiyochi-program/static-page/commit/1d12072811942de4612fd099c10fa00f5fcff954][ソースコード]]
+
+*設定変更*
+pタグの色を変更してみる
+[[https://github.com/yochiyochi-program/static-page/commit/1615577ccf373d71b6f2b886e1470b994a4ab664][ソースコード]]
+
+*ページの確認*
+
+index.html をWebブラウザで開いてみる
+
+* JavaScript
+
+*ファイル作成*
+
+- JavaScriptファイルの作成（javascript.js）
+- 作成したJavaScriptファイルへのリンク設定
+[[https://github.com/yochiyochi-program/static-page/commit/adb9faf5978d9755fdbe83c88c335a3187206b5c][ソースコード]]
+
+*JavaScriptファイル編集*
+
+console.log を使ってメッセージをログに出力してみます。
+[[https://github.com/yochiyochi-program/static-page/commit/e3f9e818366ec39f36dd3c37eea6e176793efe4f][ソースコード]]
+
+
+*ページの確認*
+- index.html をWebブラウザで開いてみる
+- メニュー > 表示 > 開発/管理 > デベロッパーツール を開きます
+
+* ブログを作ってみよう
+
+* トップページ
+以下の要素をindex.htmlに追加してみよう
+
+- タイトル
+- 記事一覧
+
+* 各記事
+各記事のページを作成してみよう
+
+* いいねボタンを追加してみよう
+記事のページにいいねボタンを追加してみよう
+
+* デザインを改善しよう
+- デザインテンプレート（bootstrap）を追加してみよう
+
+* まとめ
+まとめです。
