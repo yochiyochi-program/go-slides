@@ -136,6 +136,9 @@ console.log を使ってメッセージをログに出力してみます。
 
 * ブログを作ってみよう
 
+*完成イメージ*
+.link https://yochiyochi-program.github.io/static-page/
+
 * トップページ
 *タイトルを変更*
 
@@ -214,6 +217,7 @@ button タグにclassを追加するだけで適応されます。
 - 画像を設定 [[https://github.com/yochiyochi-program/static-page/commit/1630406becd2de2859e78c0ffe0b9e0ceba0c6ab][（ソースコード）]]
 
 * まとめ
+- 最終的なソースコードは[[https://github.com/yochiyochi-program/static-page/tree/master/docs][コチラ]]です。
 - プロゲート（初級編）で学んだことを使って簡単なブログを作成してみました。
 - CSSテンプレート（bootstrap）を使ってみました。
 - Githubを紹介しました。（別の機会にGithubハンズオンも行います）
