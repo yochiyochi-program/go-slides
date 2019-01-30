@@ -11,9 +11,11 @@
 * プロゲート（初級編）で学んだことの確認
 
 * HTML
+[[https://prog-8.com/lessons/html/study/1][プロゲート]]
 
 *タグ*
 
+- [[https://prog-8.com/html/study/1/10#/30][HTML基本構造]]
 - h1, h2
 - p
 - a
@@ -22,11 +24,8 @@
 - span
 - input, textarea
 
-*HTML全体構造*
-
-[[https://prog-8.com/html/study/1/10#/30][プロゲート]]
-
 * CSS
+[[https://prog-8.com/lessons/html/study/1][プロゲート]]
 
 - color
 - font-size
@@ -39,6 +38,7 @@
 - タグへの命名（selectedなど）
 
 * JavaScript
+[[https://prog-8.com/lessons/es6/study/1][プロゲート]]
 
 - console.log
 - コメント
