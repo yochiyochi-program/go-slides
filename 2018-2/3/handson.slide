@@ -137,19 +137,81 @@ console.log を使ってメッセージをログに出力してみます。
 * ブログを作ってみよう
 
 * トップページ
-以下の要素をindex.htmlに追加してみよう
+*タイトルを変更*
 
-- タイトル
-- 記事一覧
+[[https://github.com/yochiyochi-program/static-page/commit/2d1b67b6c098d2e8683147ed5429638486e54e13][ソースコード]]
 
-* 各記事
-各記事のページを作成してみよう
+*ヘッダー追加*
+
+- ヘッダー追加 [[https://github.com/yochiyochi-program/static-page/commit/5a98d41b226c43ec458a976e5984e18fe87a98c4][（ソースコード）]]
+- ヘッダーのCSSを設定 [[https://github.com/yochiyochi-program/static-page/commit/4b8638812109c43f78880eb62a3129208585c6bf][（ソースコード）]]
+- ボディの設定変更 [[https://github.com/yochiyochi-program/static-page/commit/c3c6883cb029bb10e4774b5e246a6021a6f628ef][（ソースコード）]]
+
+* タイトル・サブタイトルの設定
+ブログのタイトルとサブタイトルを追加してみよう
+
+*タイトル*
+
+- HTML [[https://github.com/yochiyochi-program/static-page/commit/4820ea08f8bb0f42b9396cdeedc84bc0aef74b59][（ソースコード）]]
+- CSS [[https://github.com/yochiyochi-program/static-page/commit/5e22f642922d64d9ab04e10586b88159215128ac][（ソースコード）]]
+
+*サブタイトル*
+
+- HTML [[https://github.com/yochiyochi-program/static-page/commit/851b370a872c51661ca9c5f92668e906ce447869][（ソースコード）]]
+- CSS [[https://github.com/yochiyochi-program/static-page/commit/b26ee1ed795fd0f6129203c83e8e401ebe05479a][（ソースコード）]]
+
+* 記事一覧
+各記事のページを追加してみよう
+
+- HTML [[https://github.com/yochiyochi-program/static-page/commit/a5d2fa3455a9c3fd52c0c0375fb52decc380e860][（ソースコード）]]
+- CSS [[https://github.com/yochiyochi-program/static-page/commit/348e76b604862a0c2c1f841017186483fedf6f52][ソースコード]]
+
+* 各記事ページ
+各記事ページを作成してみよう
+
+- 各記事ページを作成 [[https://github.com/yochiyochi-program/static-page/commit/0c020bca203007e7285fa6e94b2dd04a8cc1e2fa][（ソースコード）]]
+３つのページを作成
+
+- 各記事へのリンクを作成 [[https://github.com/yochiyochi-program/static-page/commit/023df3737766d06c4fa164aabd95257afaf9441f][（ソースコード）]]
+それぞれの記事へのリンクを設定
+
+- 記事にコンテンツを追加 [[https://github.com/yochiyochi-program/static-page/commit/5ebb16743194e44615252a8442764a0f888b55d8][（ソースコード）]]
+本文と画像を追加
 
 * いいねボタンを追加してみよう
 記事のページにいいねボタンを追加してみよう
 
-* デザインを改善しよう
-- デザインテンプレート（bootstrap）を追加してみよう
+*HTML/CSS*
+[[https://github.com/yochiyochi-program/static-page/commit/d5abcce6d0b108b76a803b3098214f714fd759cc][ソースコード]]
+
+*JavaScript*
+
+- クリック時にコンソールにログを出力 [[https://github.com/yochiyochi-program/static-page/commit/7b67703c0dee4a89dcf7bf44c4d0acc568abee2b][（ソースコード）]]
+- クリック時にいいねの数をカウントアップ [[https://github.com/yochiyochi-program/static-page/commit/4f75075b6673c2ff20a72305406d6a6a21eade61][（ソースコード）]]
+
+* デザインを改善しよう #1
+デザインテンプレート（bootstrap）を追加してみよう
+
+*インストール*
+
+css, javascriptを読み込むだけでbootstrapが使える状態になります。
+
+- [[https://getbootstrap.com/docs/4.2/getting-started/introduction/][公式ドキュメント]]
+- [[https://github.com/yochiyochi-program/static-page/commit/bf5be0afa7060fb10d226edcdb1362bcabc28263][ソースコード]]
+
+*いいねボタンに適応してみよう*
+
+button タグにclassを追加するだけで適応されます。
+
+- [[https://getbootstrap.com/docs/4.2/components/buttons/][公式ドキュメント]]
+- [[https://github.com/yochiyochi-program/static-page/commit/487e38f9103ade48cea4e8d98c33a20a19e236ad][（ソースコード）]]
+
+* デザインを改善しよう #2
+スライドショーを追加してみよう
+
+- [[https://getbootstrap.com/docs/4.2/components/carousel/][公式ドキュメント]]
+- テンプレートを設定 [[https://github.com/yochiyochi-program/static-page/commit/e075aec0616ab378a8736feda54c01ad293856fc][（ソースコード）]]
+- 画像を設定 [[https://github.com/yochiyochi-program/static-page/commit/1630406becd2de2859e78c0ffe0b9e0ceba0c6ab][（ソースコード）]]
 
 * まとめ
 - プロゲート（初級編）で学んだことを使って簡単なブログを作成してみました。
