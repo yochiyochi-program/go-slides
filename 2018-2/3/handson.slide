@@ -197,20 +197,20 @@ console.log を使ってメッセージをログに出力してみます。
 
 css, javascriptを読み込むだけでbootstrapが使える状態になります。
 
-- [[https://getbootstrap.com/docs/4.2/getting-started/introduction/][公式ドキュメント]]
+- [[https://getbootstrap.jp/docs/4.2/getting-started/introduction/][公式ドキュメント]]
 - [[https://github.com/yochiyochi-program/static-page/commit/bf5be0afa7060fb10d226edcdb1362bcabc28263][ソースコード]]
 
 *いいねボタンに適応してみよう*
 
 button タグにclassを追加するだけで適応されます。
 
-- [[https://getbootstrap.com/docs/4.2/components/buttons/][公式ドキュメント]]
+- [[https://getbootstrap.jp/docs/4.2/components/buttons/][公式ドキュメント]]
 - [[https://github.com/yochiyochi-program/static-page/commit/487e38f9103ade48cea4e8d98c33a20a19e236ad][（ソースコード）]]
 
 * デザインを改善しよう #2
 スライドショーを追加してみよう
 
-- [[https://getbootstrap.com/docs/4.2/components/carousel/][公式ドキュメント]]
+- [[https://getbootstrap.jp/docs/4.2/components/carousel/][公式ドキュメント]]
 - テンプレートを設定 [[https://github.com/yochiyochi-program/static-page/commit/e075aec0616ab378a8736feda54c01ad293856fc][（ソースコード）]]
 - 画像を設定 [[https://github.com/yochiyochi-program/static-page/commit/1630406becd2de2859e78c0ffe0b9e0ceba0c6ab][（ソースコード）]]
 
